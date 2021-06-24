@@ -9,7 +9,7 @@ The correctness of the task will be checked using tests.
 There are two classes:
 
 1) [`com.epam.rd.autotasks.matrices.MultiplyMatrix`](src/main/java/com/epam/rd/autotasks/matrices/MultiplyMatrix.java) - class for you to write code. Contains methods:
-    - `multiply` - takes two rectangular integer arrays (matrices) on input and returns the result of the multiplication of the given matrices integer array (matrix).
+    - `multiply` - takes two rectangular integer arrays (matrices) on **input** and **returns** the result of the multiplication of the given matrices integer array (matrix).
     - `main` - method for you to run your code local.
 2) [`com.epam.rd.autotasks.matrices.MultiplyMatrixTests`](src/test/java/com/epam/rd/autotasks/matrices/MultiplyMatrixTests.java) - class for testing your code. It contains several tests you can run using:
     ```console
