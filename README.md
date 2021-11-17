@@ -36,5 +36,3 @@ Output:
 
         {{58 , 64 },
         {139, 154}}
-
-[maven-download]: https://maven.apache.org/download.cgi
